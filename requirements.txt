@@ -1,0 +1,4 @@
+pymorphy2 
+nltk 
+wordcloud 
+matplotlib
